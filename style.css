@@ -7,5 +7,12 @@ h1
 p
 {
     border-style: double;
-    
+
+}
+
+.imageshape
+{
+    height: auto;
+    weight:auto;
+    border-style: none;
 }
