@@ -1,7 +1,7 @@
 h1
 {
     background-color: aqua;
-    color: pink;
+    color: green;
     text-decoration: wavy;
 }
 p
@@ -15,4 +15,13 @@ p
     height: 300px;
     weight: 300px;
     border-style: none;
+}
+
+h3
+{
+    color :purple;
+    text-align: center;
+    
+    
+
 }
