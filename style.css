@@ -12,7 +12,7 @@ p
 
 .imageshape
 {
-    height: auto;
-    weight:auto;
+    height: 300px;
+    weight: 300px;
     border-style: none;
 }
